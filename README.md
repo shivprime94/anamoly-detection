@@ -18,4 +18,9 @@ The ModifiedAnomalyDetector class uses an Exponentially Weighted Moving Average 
 - NumPy
 - Matplotlib
 
+Results:
+
+<img width="1140" alt="Screenshot 2024-10-15 at 7 01 21 PM" src="https://github.com/user-attachments/assets/fe22d90d-5b2c-4577-8bae-c4537acb90d4">
+
+
 Python Version: 3.x
